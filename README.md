@@ -17,10 +17,6 @@ This PHP application implements a basket system with the following features:
 2. Import the SQL schema:
    ```bash
    mysql -u root -p < sql/schema.sql
-3. Run the tests/test.php file in a PHP environment:
-   ```bash
-   php tests/test.php
-
 ## File Structure
 ~~~
     basket_project/  
